@@ -3,7 +3,7 @@
 <h3>Name: SRINITHI V</h3>
 <h3>Register Number:  212223115003</h3>
 <h3>Department: CSE(IoT)/h3>
-    
+
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -33,7 +33,9 @@ It is assumed that there will always be a safe path that the agent can take to e
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
 <h2> Program : </h2>
+
 ```
+
 wumpus=[["Save","Breeze","PIT","Breeze"],
         ["Smell","Save","Breeze","Save"],
         ["WUMPUS","GOLD","PIT","Breeze"],
@@ -149,8 +151,11 @@ while(player):
 
 <h2>Output </h2>
 <hr>
+
 <img width="1884" height="1109" alt="image" src="https://github.com/user-attachments/assets/2eeac68d-f716-4464-ace1-c8d8106488e6" />
+
 <hr>
 
 <h2> RESULT: </h2>
+
 Thus the program to solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic has been executed succesfully.
