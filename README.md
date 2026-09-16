@@ -2,7 +2,7 @@
 
 <h3>Name: SRINITHI V</h3>
 <h3>Register Number:  212223115003</h3>
-<h3>Department: CSE(IoT)/h3>
+<h3>Department: CSE(IoT) </h3>
 
 <H3>Aim:</H3>
 <p>
